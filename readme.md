@@ -49,12 +49,12 @@ I created this as a sequel to the original game I made in freshman year. It was 
 ## 📸 Screenshots
 
 - Gameplay
-<img width="801" alt="image" src="https://github.com/user-attachments/assets/3489f1d0-b3b3-449d-b665-7016bcf942e7" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/3489f1d0-b3b3-449d-b665-7016bcf942e7" />
 
 
 
 - Level Editor
-<img width="799" alt="image" src="https://github.com/user-attachments/assets/b7f4266d-722a-47c9-8d11-32b38dc8b8a6" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/b7f4266d-722a-47c9-8d11-32b38dc8b8a6" />
 
 
 
