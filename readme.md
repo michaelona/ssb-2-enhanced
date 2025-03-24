@@ -43,7 +43,7 @@ A 2D platformer game built in Python with Pygame. Includes an in-game shop, leve
 
 
 ## 💡 Inspiration
-Created as a sequel to the original game I made in freshman year. It has been updated to include a seamless integration of the Level Editor to the main game.
+I created this as a sequel to the original game I made in freshman year. It was originally written and created in March 2022. I updated it in March 2025 to include seamless integration of the Level Editor to the main game.
 
 ## 📸 Screenshots
 *(screenshots here)*
