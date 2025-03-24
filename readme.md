@@ -37,7 +37,7 @@ A 2D platformer game built in Python with Pygame. Includes an in-game shop, leve
 - `/sfx/` - Audio file assets
 - `/skins/` - Assets for the different unlockable characters
 
-  **Using the Level Editor***
+  **Using the Level Editor**
 - `/customWorlds.txt`/ - Holds the data for the levels you create via the editor
 - `/customPreview.txt`/ - Contains world data after clicking SEND in the editor. Carries that data to the main game to play.
 
