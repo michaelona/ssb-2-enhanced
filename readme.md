@@ -2,17 +2,16 @@
 
 A 2D platformer game built in Python with Pygame. Includes an in-game shop, level editor, and character progression system. Originally developed during high school, this enhanced version has quality-of-life improvements and extra features.
 
-## 🎮 Features
+## Features
 - **Custom Level Editor**: Design and play your own levels with click-and-drag tile placement.
 - **In-Game Shop**: Earn in-game currency and unlock skins.
 - **Progress Tracking**: Player data saved automatically between sessions.
 - **UI & Visuals**: Custom UI elements for menus, shop, and HUD.
 - **Speedrunning Stats**: A stopwatch and death counter to record your best runs.
 
-## 🛠 Built With
-- **Python 3**
+##  Built With
+- **Python3**
 - **Pygame**
-- Basic file I/O for saving progress and writing levels
 
 ## How to Run
 
@@ -31,9 +30,16 @@ A 2D platformer game built in Python with Pygame. Includes an in-game shop, leve
 ## 📂 File Overview
 - `playgameV2.py` – Main game script
 - `leveleditV1.py` – Custom level editor
-- `playerstats.txt` – Stores player progress in different lines
+- `playerstats.txt` – Stores player progress in different lines (Don't delete this!)
 - `/ui/` – Contains UI images and assets
-- `/enemy
+- `/enemy/` - More game assets
+- `/textures/` - In-game texture files and icons
+- `/sfx/` - Audio file assets
+- `/skins/` - Assets for the different unlockable characters
+
+  **Using the Level Editor***
+- `/customWorlds.txt`/ - Holds the data for the levels you create via the editor
+- `/customPreview.txt`/ - Contains world data after clicking SEND in the editor. Carries that data to the main game to play.
 
 
 ## 💡 Inspiration
@@ -42,5 +48,4 @@ Created as a sequel to the original game I made in freshman year. It has been up
 ## 📸 Screenshots
 *(screenshots here)*
 
-## 📘 License
-This project is open for learning and inspiration. Feel free to build on it, but credit the original work.
+
