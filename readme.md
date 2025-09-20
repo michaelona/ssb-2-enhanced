@@ -25,7 +25,7 @@ A 2D platformer game built in Python with Pygame. Includes an in-game shop, leve
    python playgameV2.py
    ```
 
-> 📝 Note: This was a personal project made as a final project during high school, so it definitely does not run as good as it could. Conventional coding practices are probably not followed in it, but it runs.
+> 📝 Note: This was made as a final project during high school, so it obviously does not run as good as it could. Conventional coding practices are most likely not followed.
 
 ## 📂 File Overview
 - `playgameV2.py` – Main game script
