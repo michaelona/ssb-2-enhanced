@@ -2,6 +2,7 @@
 
 A 2D platformer game built in Python with Pygame. Includes an in-game shop, level editor, and character progression system. Originally developed during high school, this enhanced version has quality-of-life improvements and extra features.
 
+
 ## Features
 - **Custom Level Editor**: Design and play your own levels with click-and-drag tile placement.
 - **In-Game Shop**: Earn in-game currency and unlock skins.
@@ -24,9 +25,7 @@ A 2D platformer game built in Python with Pygame. Includes an in-game shop, leve
    ```bash
    python playgameV2.py
    ```
-
-> 📝 Note: This was made as a final project during high school, so it obviously does not run as good as it could. Conventional coding practices are most likely not followed.
-
+   
 ## 📂 File Overview
 - `playgameV2.py` – Main game script
 - `leveleditV1.py` – Custom level editor
@@ -44,6 +43,10 @@ A 2D platformer game built in Python with Pygame. Includes an in-game shop, leve
 
 ## 💡 Inspiration
 I created this as a sequel to the original game I made in freshman year. It was originally written and created in March 2022. I updated it in March 2025 to include seamless integration of the Level Editor to the main game.
+
+## Credits / Attributions
+
+- **Character Art**: Inspired by/Derived from the characters in *Among Us* (Innersloth).
 
 
 ## 📸 Screenshots
